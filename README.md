@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -21,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

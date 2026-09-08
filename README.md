@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

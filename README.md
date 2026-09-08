@@ -40,12 +40,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->

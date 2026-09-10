@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
 ## Dynamic Programming

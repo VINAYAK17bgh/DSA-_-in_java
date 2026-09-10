@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0036-valid-sudoku) |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
 ## Math
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

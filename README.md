@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/1025-divisor-game) |
 ## Minimax
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Backtracking
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0036-valid-sudoku) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/VINAYAK17bgh/DSA-_-in_java/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
